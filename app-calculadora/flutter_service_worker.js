@@ -16,7 +16,7 @@ const RESOURCES = {"canvaskit/chromium/canvaskit.wasm": "3909da2fbccad1a2e4a1f42
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "index.html": "73afc5f9b960320b933b65dfc3d428ce",
 "/": "73afc5f9b960320b933b65dfc3d428ce",
-"main.dart.js": "a7eaddd162c1bb6b4e2719561945a16b",
+"main.dart.js": "cd85432b928beb1ee056283016b7c212",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/NOTICES": "a371292ac7b1e8f328287c8e53a719d0",
@@ -32,7 +32,7 @@ const RESOURCES = {"canvaskit/chromium/canvaskit.wasm": "3909da2fbccad1a2e4a1f42
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "manifest.json": "56128fc6ec7568b99d6fc24cfa34a218",
-"flutter_bootstrap.js": "fe316b5777474bf45de3e4cce6f5ce48"};
+"flutter_bootstrap.js": "a325e1b8edad323f963de48b7fcd558c"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
